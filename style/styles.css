@@ -98,7 +98,7 @@ table, tr, td{
     color: black;
 }
 
-tr:nth-child(even){background-color: #3f616e;}
+td:nth-child(even){background-color: #3f616e;}
 
 ol{
     list-style-position: inside;
