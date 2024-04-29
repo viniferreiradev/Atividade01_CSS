@@ -68,6 +68,13 @@ a{
     color: #e75151;
     text-decoration: none;
 }
+
+div{
+    width: 900px;
+    border: 1px solid #b48714;
+    margin-left: auto;
+    margin-right: auto;
+}
     
 table{
     position: relative;
